@@ -1,0 +1,21 @@
+.row {
+    display:  flex;
+    flex-wrap: wrap;
+    padding: 50px;
+    margin: 50px;
+
+}
+.col {
+    width: 25%;
+    box-sizing: border-box;
+    padding: 20px 20px;
+    border: 2px solid white;
+margin: 40px;
+  color: white;
+}
+body{    background: url(https://c4.wallpaperflare.com/wallpaper/533/140/55/black-background-logo-adidas-wallpaper-preview.jpg);
+    background-size: cover;
+background-repeat: no-repeat;
+}
+
+
